@@ -2,14 +2,7 @@
 
 BCA Student @ [MVVU](https://mvvu.ac.in) | Aspiring Data Analyst
 
-🎓 Focused on Data Analysis and Business Intelligence
-
-- 📊 Skills: Excel, SQL, Python, Power BI
-- 📈 Working on dashboards and data projects
-
-
-📫 Connect with me: https://www.linkedin.com/in/surajvish2044
-
-
-#### Tech Stack
-Excel | SQL | Python | Power BI
+- 🎓 BCA @ Maa Vindhyavasini University, Mirzapur
+- 📊 Learning: Excel, SQL, Python, Power BI
+- 🌱 Currently working on my first data projects
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/surajvish2044)
