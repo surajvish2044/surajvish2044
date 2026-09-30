@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Suraj Vishwakarma 
 
-<!--
-**surajvish2044/surajvish2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student @ MVVU | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 Focused on Data Analysis and Business Intelligence
+- 📊Skills: Excel, SQL, Python, Power BI
+- 📈Working on dashboards and data projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- 📫 Connect with me: https://www.linkedin.com/in/surajvish2044
+
+#### Tech Stack
+Excel | SQL | Python | Power BI | MS OFFICE|
